@@ -1,4 +1,8 @@
-# animation
+# This repository is contain few of my flutter experiment..
+
+1. Ludo Board
+2. Whot Card
+3. Staggered Animation
 
 A new Flutter project.
 
