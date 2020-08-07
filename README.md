@@ -2,7 +2,7 @@
 
 1. Ludo Board
 2. Whot Card
-3. Staggered Animation
+3. Staggered Animation and lot more.
 
 A new Flutter project.
 
