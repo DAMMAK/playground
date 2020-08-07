@@ -1,0 +1,44 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "Flutter",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Android",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "emulator-5554"
+    },
+    {
+      "name": "iPhone",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "iPhone"
+    },
+    {
+      "name": "iPad Pro",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "CE96E50B-A047-40D9-9921-1359CA2CF231"
+    }
+    {
+      "name": "Mac OS",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "macOS"
+  },
+  ],
+  "compounds": [
+    {
+      "name": "All Devices",
+      "configurations": ["Android", "iPhone", "iPad Pro", "Mac OS"]
+    }
+  ]
+}
